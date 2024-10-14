@@ -1,0 +1,15 @@
+.gitignore
+node_modules/
+.env
+
+
+
+.env.sample
+# .env.sample file
+SERVER_PORT=5000
+DB_USER=YOUR_DB_USER
+DB_PASSWORD=YOUR_DB_PASSWORD
+SECRET_API_KEY=YOUR_SECRET_API_KEY
+MY_NAME=
+MY_CITY=
+MY_LANGUAGE=
